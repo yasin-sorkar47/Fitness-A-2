@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: Miama;
-  src: url(/assets/font/miama/Miama.otf);
+  src: url(./assets/font/miama/Miama.otf);
 }
 
 :root {
